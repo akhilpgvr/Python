@@ -1,3 +1,4 @@
+#this is the code for performing employee deatils and access their details through employee number
 #include<stdio.h>
 struct employee
 {
